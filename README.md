@@ -5,7 +5,7 @@ I focus on building hardware-integrated AI solutions and database management sys
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -13,7 +13,7 @@ I focus on building hardware-integrated AI solutions and database management sys
 
 ---
 
-### 📂 Selected Projects
+### Selected Projects
 
 **Neuro-fix**
 *Python, Computer Vision, Hardware Integration*
@@ -25,7 +25,7 @@ A comprehensive desktop application for managing blood donor records and invento
 
 ---
 
-### 📊 GitHub Activity
-![Commits](https://img.shields.io/github/commit-activity/y/hammadist2005/hammadist2005?color=black&style=flat-square&label=Activity)
-![Repos](https://img.shields.io/github/public-repositories/hammadist2005?color=black&style=flat-square&label=Repositories)
+### GitHub Activity
+![Activity](https://img.shields.io/github/commit-activity/y/hammadist2005/hammadist2005?color=black&style=flat-square&label=Activity)
+![Repos](https://img.shields.io/github/repo-count/hammadist2005?color=black&style=flat-square&label=Repositories)
 ![Followers](https://img.shields.io/github/followers/hammadist2005?color=black&style=flat-square&label=Followers)
