@@ -20,5 +20,14 @@ A hardware-integrated AI assistant designed for real-time visual processing. Foc
 *Java Swing, MySQL*
 A comprehensive desktop application for managing blood donor records and inventory. Features a robust SQL backend for reliable data persistence.
 
-### GitHub Analytics
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadist2005&show_icons=true&theme=gotham&hide_border=true&count_private=true)
+### ⚡ GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadist2005&theme=gotham&hide_border=true" alt="Hammad's Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadist2005&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Hammad's Trophies" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadist2005&layout=compact&theme=gotham&hide_border=true)
