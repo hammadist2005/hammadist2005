@@ -27,5 +27,5 @@ A comprehensive desktop application for managing blood donor records and invento
 
 ### GitHub Activity
 ![Activity](https://img.shields.io/github/commit-activity/y/hammadist2005/hammadist2005?color=black&style=flat-square&label=Activity)
-![Repos](https://img.shields.io/github/repo-count/hammadist2005?color=black&style=flat-square&label=Repositories)
+![Repos](https://img.shields.io/badge/Repositories-3-black?style=flat-square)
 ![Followers](https://img.shields.io/github/followers/hammadist2005?color=black&style=flat-square&label=Followers)
