@@ -21,4 +21,4 @@ A hardware-integrated AI assistant designed for real-time visual processing. Foc
 A comprehensive desktop application for managing blood donor records and inventory. Features a robust SQL backend for reliable data persistence.
 
 ### GitHub Analytics
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadist2005&show_icons=true&theme=gotham&hide_border=true)
+![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadist2005&show_icons=true&theme=gotham&hide_border=true&count_private=true)
