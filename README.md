@@ -1,5 +1,5 @@
 # Hammad
-**Computer Science Undergraduate | AI & Backend Development**
+**Software Engineering Undergraduate | AI & Backend Development**
 
 I focus on building hardware-integrated AI solutions and database management systems. My work primarily involves Python for computer vision and Java for enterprise desktop applications.
 
